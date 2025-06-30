@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hey, I'm Aljo Joju (Aju)
 
-<!--
-**Aljo00/Aljo00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer | MERN | React | Node.js | Firebase | PostgreSQL  
+Building real-world projects and learning every day 🚀
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- **Frontend:** React, HTML, CSS, Bootstrap, Tailwind
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB, PostgreSQL
+- **Others:** TypeScript, Firebase, Cloudinary, Git, Redux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Currently Working On
+- 🎓 EduNex – AI-Powered Educational Platform
+- 👥 User Management System (React + Redux + MongoDB)
+
+## 📫 How to Reach Me
+- Email: yourname@email.com
+- GitHub: [github.com/ajujoju](https://github.com/ajujoju)
+- LinkedIn: [linkedin.com/in/ajujoju](https://linkedin.com/in/ajujoju)
+
